@@ -12,10 +12,8 @@ I draw inspiration from reference1, which involves reducing the opacity of the b
 
 - reference 1：
     ![Untitled](img/Untitled.png)
-
     [https://openprocessing.org/sketch/101623](https://openprocessing.org/sketch/101623)
 
 - reference 2:
     ![Untitled](img/Untitled%201.png)
-
     [https://openprocessing.org/sketch/107788](https://openprocessing.org/sketch/107788)
