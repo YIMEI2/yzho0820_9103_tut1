@@ -6,6 +6,7 @@ I want to incorporate the spacetime gravitational effects from **"Interstellar"*
 
 ![Interstellar_img2.jpg](/Interstellar_img2.jpg)
 
+
 ## Part 2
 I draw inspiration from reference1, which involves reducing the opacity of the black background to preserve the historical trajectory. Additionally, reference2 has made me realize the potential of using three-dimensional space to build a spatial model. The reduced background opacity will emphasize the star's journey around the spacecraft, while the three-dimensional spatial model will provide depth and realism to the scene, enhancing the overall visual impact and immersion of the project. I believe that by combining these two techniques, I can effectively achieve the imagery of interstellar passage described in part1.
 
